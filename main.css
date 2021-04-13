@@ -1,0 +1,12 @@
+#textHello{
+    color: blueviolet;
+    text-align: center;
+    font-size: 40px;
+}
+
+#textWhoAreYou{
+    color: crimson;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
